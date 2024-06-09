@@ -1,0 +1,27 @@
+[submodule "death_messages"]
+	path = death_messages
+	url = https://github.com/4Evergreen4/death_messages
+[submodule "message_bubbles"]
+	path = message_bubbles
+	url = https://github.com/ZenonSeth/message_bubbles
+[submodule "moreblocks"]
+	path = moreblocks
+	url = https://github.com/minetest-mods/moreblocks
+[submodule "playeranim"]
+	path = playeranim
+	url = https://github.com/minetest-mods/playeranim
+[submodule "staminaplusplus"]
+	path = staminaplusplus
+	url = https://github.com/nekobbbbbbit/staminaplusplus
+[submodule "scaffolding"]
+	path = scaffolding
+	url = https://bitbucket.org/Infinatum/scaffolding/
+[submodule "signs_lib"]
+	path = signs_lib
+	url = https://github.com/mt-mods/signs_lib
+[submodule "skinsdb"]
+	path = skinsdb
+	url = https://github.com/minetest-mods/skinsdb
+[submodule "Minetest-WorldEdit"]
+	path = wordledit
+	url = https://github.com/Uberi/Minetest-WorldEdit
