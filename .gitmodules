@@ -10,9 +10,6 @@
 [submodule "playeranim"]
 	path = playeranim
 	url = https://github.com/minetest-mods/playeranim
-[submodule "staminaplusplus"]
-	path = staminaplusplus
-	url = https://github.com/nekobbbbbbit/staminaplusplus
 [submodule "scaffolding"]
 	path = scaffolding
 	url = https://bitbucket.org/Infinatum/scaffolding/
