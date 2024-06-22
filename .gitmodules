@@ -19,9 +19,6 @@
 [submodule "skinsdb"]
 	path = skinsdb
 	url = https://github.com/minetest-mods/skinsdb
-[submodule "Minetest-WorldEdit"]
-	path = wordledit
-	url = https://github.com/Uberi/Minetest-WorldEdit
 [submodule "cannons2"]
 	path = cannons2
 	url = https://github.com/ssdaniel24/cannons2
